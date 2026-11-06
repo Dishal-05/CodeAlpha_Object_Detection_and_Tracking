@@ -6,7 +6,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red.svg)
 ![Status](https://img.shields.io/badge/Internship-Task%204%20Completed-brightgreen.svg)
 
-A complete, production-grade **Object Detection and Multi-Object Tracking (MOT) System** developed for the **CodeAlpha Artificial Intelligence Internship (Task 4)**. 
+A complete, production-grade **Object Detection and Multi-Object Tracking (MOT) System** developed for the **CodeAlpha Artificial Intelligence Internship.
 
 The application detects multiple simultaneous objects in real-time from either a **live webcam** or a **video file**, draws stylish corner-bracket bounding boxes, displays object classes and confidence scores, maintains **persistent unique tracking IDs** across frames using the **DeepSORT** algorithm, and visualizes **motion trajectory trails**.
 
@@ -362,5 +362,4 @@ The project incorporates industrial-strength fault tolerance:
 ---
 ---
 
-*Developed for the **CodeAlpha Artificial Intelligence Internship — Task 4**.*
 
