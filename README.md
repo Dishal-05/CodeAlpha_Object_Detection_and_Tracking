@@ -361,19 +361,6 @@ The project incorporates industrial-strength fault tolerance:
 | **End of Video Stream** | Video files automatically loop seamlessly for continuous, unattended project demonstrations. |
 
 ---
-
-## Demonstration Checklist for CodeAlpha AI Internship
-
-- [x] Pre-trained lightweight YOLOv8n object detection model.
-- [x] DeepSORT algorithm with Kalman filter and appearance metric tracking.
-- [x] Persistent unique IDs assigned and maintained across video frames.
-- [x] Real-time video processing from both Webcam and Video files.
-- [x] Visual bounding boxes, class labels, and confidence percentage display.
-- [x] Dynamic motion trajectory trails.
-- [x] Real-time active object counter and FPS statistics.
-- [x] Clean Dark-Mode User Interface with Start, Stop, and 'Q' quit handling.
-- [x] Complete, beginner-friendly documentation with mathematical and algorithmic explanations.
-
 ---
 
 *Developed for the **CodeAlpha Artificial Intelligence Internship — Task 4**.*
