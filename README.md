@@ -1,5 +1,4 @@
 # AI Object Detection and Tracking System
-### CodeAlpha Artificial Intelligence Internship — Task 4
 
 ![Python](https://img.shields.io/badge/Python-3.8%20--%203.13-blue.svg)
 ![YOLO](https://img.shields.io/badge/YOLO-v8n%20(Ultralytics)-00ffff.svg)
