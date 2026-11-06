@@ -1,0 +1,17 @@
+# Python byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+.venv/
+env/
+
+# IDE configurations
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

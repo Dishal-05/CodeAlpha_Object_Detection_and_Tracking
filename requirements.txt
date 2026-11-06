@@ -1,0 +1,23 @@
+# CodeAlpha AI Internship - Task 4: Object Detection & Tracking
+# Dependencies for YOLOv8 Object Detection and DeepSORT Object Tracking
+
+# Ultralytics YOLOv8 for real-time object detection
+ultralytics>=8.1.0
+
+# OpenCV for computer vision, video processing, and GUI rendering
+opencv-python>=4.8.0
+
+# PyTorch and Torchvision for deep learning inference
+torch>=2.0.0
+torchvision>=0.15.0
+
+# DeepSORT tracking package
+deep-sort-realtime>=1.3.2
+
+# Numerical and scientific computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Image handling
+Pillow>=9.5.0
+
